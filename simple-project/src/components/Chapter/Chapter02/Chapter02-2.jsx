@@ -1,10 +1,10 @@
 
 const ChildComponent = (props) => {
-    //console.log(props);
+    console.log(props);
     return (
         <>
             <p>조심할점</p>
-            {/* {props} */}
+
             <p>공부하기</p>
         </>
     )
