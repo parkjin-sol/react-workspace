@@ -2,7 +2,7 @@ const Footer = () => {
     return (
         <>
         <footer>
-            푸터 영역
+           <strong> &copy; Copyright 2025. Jinsol. All Rights Reserved</strong> 
         </footer>
         </>
     );
